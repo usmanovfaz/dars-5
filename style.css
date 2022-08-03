@@ -1,0 +1,249 @@
+
+.td1{
+    width: 25%;
+}
+table{
+    width: 360px;
+    background-color: white;
+    height:900px;
+    padding-left: 1;
+   padding-right: 0px;
+}
+body{
+    background-color: #E5E5E5;
+    margin: 0px;
+    font-family: monospace
+}
+
+.tel{
+    height: 10px;
+}
+.tel{
+    font-size: small;
+    color: #111111;
+    margin-top: 10px;
+    margin: 6%;
+    margin-left: 20px;
+}
+.number{
+    color: #FF9846;
+    margin-top:  20px;
+    margin: 1%;
+    font-size: small;
+    margin-left: 5px;
+}
+.tr1{
+    
+    border-bottom-style: dashed ;
+    border-bottom-width: 30px;
+    border-bottom-color: #A4ACAD;
+    margin-bottom: 10px;
+    height: 10px;
+    width: 300px;
+}
+.comment{
+    background-color: #F2F2F2;
+    font-family:monospace;
+    font-size: xx-large;
+    margin-left: -250px;
+    height: 30px;
+}
+.com{
+    background-color: #F2F2F2;
+    height: 41px;
+    width: 330px;
+    margin-left: -300px;
+}
+.com2{
+background-color: #E5E5E5;
+height: 40px;
+margin-bottom: 300px;
+
+}
+.com3{
+    width: 340px;
+    margin-left: -220px;
+    margin-right: 10px;
+    padding-left:0px;
+    padding-right: 0px;
+    margin-top: -780px;   
+    font-weight: 100;
+    font-size: 18px;
+    height: 88px;
+}
+.com4{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.com100{
+    margin-bottom: 800px;
+    margin-left: 25px;
+}
+
+.elena{
+    margin-top: -670px;
+    margin-left: 20px;
+}
+.sotas{
+    font-weight: 100;
+    font-size: 18px;
+    width: 100px;
+    margin-top: -620px;
+    margin-left: 25px;
+}
+.sergey{
+    margin-top: -570px;
+    margin-left: 25px;
+}
+.gav{
+    width: 350px;
+    font-size: 18px;
+    margin-left: -220px;    
+    margin-top: -520px;
+    font-size: 18px;
+    font-family:monospace;
+    font-weight: 100;
+}
+.pluse1{
+    height: 36px;
+    width: 300px;
+    background-color: black;
+
+}
+.pluse{     
+    padding-top: 10px;
+    padding-bottom: -111px;
+    padding-left:100px;
+    height: 30px;
+    width: 270px;   
+    margin-top: -330px;
+    margin-left: -230px;
+    margin-right:0px;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.choose{
+    width: 240px;
+    height: 4px;
+    background-color: #F2F2F2;
+    font-size: 18px;
+    font-weight: 400;
+    color: #A4ACAD;
+    margin-top: -260px;
+    margin-left:-150px;
+}
+.tg{
+    padding-bottom: 170px;
+    width: 50px;
+ 
+    height: 50px;
+    margin-left: -65px;
+    margin-top: -300px;
+}
+.h3a{background-color: #F2F2F2;
+    margin-top: -135px;
+    margin-left: -150px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #A4ACAD;
+}
+.h3b{background-color: #F2F2F2;
+    margin-top: -15px;
+    margin-left: -150px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #A4ACAD;
+}
+.h3c{background-color: #F2F2F2;
+    margin-top: -10px;
+    margin-left: -135px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #A4ACAD;
+}
+    
+.col{
+    background-color:#F2F2F2;
+}
+.hr1{
+    margin-left: 0px;
+    margin-top: -40px;
+    width: 380px;
+    border-top-style: solid ;
+    border-top-width: 1px;
+   border-top-color: #d6dbdc;
+}
+.hr2{
+    margin-left: -390px;
+    margin-top: -40px;
+    width: 390px;
+    border-top-style: solid ;
+    border-top-width: 1px;
+   border-top-color: #d6dbdc;
+}
+.vector{
+    margin-left:80px ;
+    margin-top: -40px;
+    padding-bottom: 10px;
+}
+.menu{
+    margin-left: 80px;
+    margin-top: -10px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+.vec{
+    margin-top: -25px;
+    padding-bottom: 22px;
+    margin-left: -60px;
+}
+.kor{
+    margin-left: -75px;
+    margin-top: -20px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+.v1{
+    margin-top: -35px;
+    margin-left: -25px;
+    padding-bottom: 27px;
+}
+.v2{
+    margin-top: -55px;
+    margin-left: -18px;
+    padding-bottom: 27px;
+}
+.v3{
+    margin-top: -55px;
+    margin-left: 3px;
+    padding-bottom: 27px;
+}
+.like{
+    margin-bottom: 45px;
+    margin-left: 22px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+.dis{
+    margin-bottom: 55px;
+    margin-left: -35px;
+    padding-bottom: 22px;
+    padding-top: 10px;
+}
+.v4{
+    margin-top: -75px;
+    margin-left: 10px;
+    padding-bottom: 25px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+}
+
+.birbalo {
+    margin-bottom: 10px !important;
+}
